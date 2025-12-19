@@ -1,4 +1,4 @@
-# Networking Buddy 
+# Networking Buddy 🤝
 
 Networking Buddy is an AI-powered conversation starter application designed to help users confidently begin and continue conversations in professional and casual networking situations.
 
@@ -38,6 +38,3 @@ Networking Buddy is an AI-powered conversation starter application designed to h
 - Improve response personalization
 - Support multiple languages
 - Enhance UI/UX design
-ired libraries:
-   ```bash
-   pip install streamlit google-generativea
